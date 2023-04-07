@@ -6035,6 +6035,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 body {
     font-family: MaruBuri;
+    width : 100%;
 }
 
 /* Home Page Style */
